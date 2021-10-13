@@ -1,0 +1,5 @@
+XSym
+0117
+2bfe42bb9b9614f823f3c3297b7fe276
+../../../../../node_modules/unimodules-sensors-interface/ios/UMSensorsInterface/UMMagnetometerUncalibratedInterface.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

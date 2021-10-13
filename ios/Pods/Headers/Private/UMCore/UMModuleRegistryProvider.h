@@ -1,0 +1,5 @@
+XSym
+0107
+24d28d690722fae28280a5ed2f429435
+../../../../../node_modules/@unimodules/core/ios/UMCore/UMModuleRegistryProvider/UMModuleRegistryProvider.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

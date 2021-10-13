@@ -1,0 +1,5 @@
+XSym
+0102
+192013bfb0b186af68f39519b29fc939
+../../../../../node_modules/unimodules-sensors-interface/ios/UMSensorsInterface/UMBarometerInterface.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

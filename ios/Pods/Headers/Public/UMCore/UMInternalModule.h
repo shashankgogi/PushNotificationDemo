@@ -1,0 +1,5 @@
+XSym
+0084
+e7890962389c215f87896c7fc898ec94
+../../../../../node_modules/@unimodules/core/ios/UMCore/Protocols/UMInternalModule.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

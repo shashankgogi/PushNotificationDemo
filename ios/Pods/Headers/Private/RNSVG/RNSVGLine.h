@@ -1,0 +1,5 @@
+XSym
+0067
+543c1d4da5465841ca697a2095e5c2cf
+../../../../../node_modules/react-native-svg/ios/Shapes/RNSVGLine.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

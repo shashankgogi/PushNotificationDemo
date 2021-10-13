@@ -1,0 +1,5 @@
+XSym
+0081
+8507ea4fe49375e2f3f1e54067f48ad2
+../../../../../node_modules/react-native-svg/ios/ViewManagers/RNSVGTSpanManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

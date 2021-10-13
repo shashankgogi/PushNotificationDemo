@@ -1,0 +1,5 @@
+XSym
+0067
+19c0a0d2a7ee5d35df24512b11eef9bd
+../../../../../node_modules/react-native-svg/ios/Shapes/RNSVGRect.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

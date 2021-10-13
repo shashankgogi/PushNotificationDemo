@@ -1,0 +1,5 @@
+XSym
+0049
+74bccf95e3e6e48e2d5ecfe39b31c35d
+../../../../Flipper-Folly/folly/ThreadCachedInt.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

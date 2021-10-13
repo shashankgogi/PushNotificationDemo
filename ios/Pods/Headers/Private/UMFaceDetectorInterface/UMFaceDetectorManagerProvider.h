@@ -1,0 +1,5 @@
+XSym
+0122
+eba6b42a845cd277e98592baae6f78a6
+../../../../../node_modules/unimodules-face-detector-interface/ios/UMFaceDetectorInterface/UMFaceDetectorManagerProvider.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

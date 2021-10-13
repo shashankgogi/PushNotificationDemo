@@ -1,0 +1,5 @@
+XSym
+0130
+3ef5b0b94b294b19e78f7e5f1e60a55b
+../../../../../node_modules/unimodules-barcode-scanner-interface/ios/UMBarCodeScannerInterface/UMBarCodeScannerProviderInterface.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

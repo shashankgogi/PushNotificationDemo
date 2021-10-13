@@ -1,0 +1,5 @@
+XSym
+0082
+16aa5d19dcf7335f2410b30ef431bc30
+../../../../../../Flipper-Folly/folly/container/detail/F14IntrinsicsAvailability.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

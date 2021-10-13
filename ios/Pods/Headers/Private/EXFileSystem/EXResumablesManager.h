@@ -1,0 +1,5 @@
+XSym
+0098
+241519326de651317c1a662144a13435
+../../../../../node_modules/expo-file-system/ios/EXFileSystem/EXSessionTasks/EXResumablesManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

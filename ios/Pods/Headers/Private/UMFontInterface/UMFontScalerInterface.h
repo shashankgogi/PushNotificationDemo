@@ -1,0 +1,5 @@
+XSym
+0097
+e0a674dc9028a3879ce1719434a95189
+../../../../../node_modules/unimodules-font-interface/ios/UMFontInterface/UMFontScalerInterface.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

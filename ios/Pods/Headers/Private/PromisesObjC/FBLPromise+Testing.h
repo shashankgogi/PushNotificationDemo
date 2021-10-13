@@ -1,0 +1,5 @@
+XSym
+0070
+83cee1cebd32b64f0e750dc408fb6405
+../../../PromisesObjC/Sources/FBLPromises/include/FBLPromise+Testing.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

@@ -1,0 +1,5 @@
+XSym
+0110
+4c56be6dddf40935114beb8b9a7c21f6
+../../../../../node_modules/unimodules-file-system-interface/ios/UMFileSystemInterface/UMFileSystemInterface.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

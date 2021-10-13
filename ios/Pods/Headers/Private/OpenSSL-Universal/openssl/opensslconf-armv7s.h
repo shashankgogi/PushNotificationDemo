@@ -1,0 +1,5 @@
+XSym
+0070
+597921106e08249c00306710f6240d89
+../../../../OpenSSL-Universal/ios/include/openssl/opensslconf-armv7s.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

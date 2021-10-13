@@ -1,0 +1,5 @@
+XSym
+0102
+b2c3fc4e7d373f366a0a2fddd37016f2
+../../../../../node_modules/unimodules-sensors-interface/ios/UMSensorsInterface/UMGyroscopeInterface.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

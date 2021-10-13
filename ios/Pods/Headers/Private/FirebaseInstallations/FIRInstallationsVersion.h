@@ -1,0 +1,5 @@
+XSym
+0122
+2cdc53c8140f35b8f3bafe5abd22363b
+../../../FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsVersion.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

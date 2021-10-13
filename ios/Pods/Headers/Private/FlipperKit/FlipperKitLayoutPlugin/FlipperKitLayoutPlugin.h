@@ -1,0 +1,5 @@
+XSym
+0105
+fef025f552fb85aa993ea21d334d0a9b
+../../../../FlipperKit/iOS/Plugins/FlipperKitLayoutPlugin/FlipperKitLayoutPlugin/FlipperKitLayoutPlugin.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

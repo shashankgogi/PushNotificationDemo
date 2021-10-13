@@ -1,0 +1,5 @@
+XSym
+0109
+4eb90d29af21db80477850cfd2c0e218
+../../../../../node_modules/unimodules-task-manager-interface/ios/UMTaskManagerInterface/UMTaskLaunchReason.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

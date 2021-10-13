@@ -1,0 +1,5 @@
+XSym
+0050
+44e16ab33581f746400b890eba95e0be
+../../../Flipper/xplat/Flipper/FlipperConnection.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

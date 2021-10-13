@@ -1,0 +1,5 @@
+XSym
+0100
+d87379ed3dcb40e9e3c38f4fb37cd211
+../../../../FlipperKit/iOS/Plugins/FlipperKitLayoutPlugin/FlipperKitLayoutPlugin/SKTapListenerImpl.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

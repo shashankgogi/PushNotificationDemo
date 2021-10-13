@@ -1,0 +1,5 @@
+XSym
+0113
+5e7ecc67105aef05d4160f07a3721db8
+../../../../../node_modules/unimodules-task-manager-interface/ios/UMTaskManagerInterface/UMTaskServiceInterface.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

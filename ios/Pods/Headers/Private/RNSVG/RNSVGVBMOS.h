@@ -1,0 +1,5 @@
+XSym
+0067
+1f0eef502b572ce34124fb847277dcf0
+../../../../../node_modules/react-native-svg/ios/Utils/RNSVGVBMOS.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

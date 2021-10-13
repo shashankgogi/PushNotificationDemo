@@ -1,0 +1,5 @@
+XSym
+0072
+37d98b202c02750fb7a018d453c5cb6b
+../../../../../node_modules/react-native-svg/ios/Utils/RNSVGPathParser.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

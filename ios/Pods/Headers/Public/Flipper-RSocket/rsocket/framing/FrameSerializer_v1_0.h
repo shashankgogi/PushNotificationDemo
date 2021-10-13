@@ -1,0 +1,5 @@
+XSym
+0069
+9a3cd3d6afb1ee8730f3818933d6b1bc
+../../../../../Flipper-RSocket/rsocket/framing/FrameSerializer_v1_0.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

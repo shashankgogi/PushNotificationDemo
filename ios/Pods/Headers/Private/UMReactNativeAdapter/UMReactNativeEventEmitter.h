@@ -1,0 +1,5 @@
+XSym
+0122
+b19941f9eb7ac2fb77d8dc11c2b10403
+../../../../../node_modules/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/Services/UMReactNativeEventEmitter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

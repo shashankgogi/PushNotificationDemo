@@ -1,0 +1,5 @@
+XSym
+0049
+42d8ca3d1254c83e784f6b5b66c85035
+../../../../Flipper-PeerTalk/peertalk/PTChannel.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

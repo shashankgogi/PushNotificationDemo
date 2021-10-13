@@ -1,0 +1,5 @@
+XSym
+0145
+2d945b098d55e0cc145b258fbe1829b3
+../../../../../node_modules/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/UMModuleRegistryAdapter/UMModuleRegistryHolderReactModule.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

@@ -1,0 +1,5 @@
+XSym
+0069
+a1d5dfd3ecff18ec4259281f43e66e95
+../../../../../node_modules/react-native-svg/ios/Elements/RNSVGDefs.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

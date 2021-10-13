@@ -1,0 +1,5 @@
+XSym
+0129
+feee01585ab620634fa174054b85b1af
+../../../../../node_modules/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/UMNativeModulesProxy/UMNativeModulesProxy.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

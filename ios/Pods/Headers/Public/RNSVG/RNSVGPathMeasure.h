@@ -1,0 +1,5 @@
+XSym
+0073
+0b0fe2427ba3f38c7d9aafeb15e47cd8
+../../../../../node_modules/react-native-svg/ios/Utils/RNSVGPathMeasure.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

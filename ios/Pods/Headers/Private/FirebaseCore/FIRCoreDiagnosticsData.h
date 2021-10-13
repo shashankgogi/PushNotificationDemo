@@ -1,0 +1,5 @@
+XSym
+0077
+382ad09978ec49ad7b3ca786df723165
+../../../FirebaseCore/Interop/CoreDiagnostics/Public/FIRCoreDiagnosticsData.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

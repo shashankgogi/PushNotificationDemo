@@ -1,0 +1,5 @@
+XSym
+0069
+41373cc45274e30b80c0f5a148b20ab7
+../../../../../node_modules/react-native-svg/ios/Text/RNSVGTextPath.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

@@ -1,0 +1,5 @@
+XSym
+0097
+340ff83fb48b61b48ecd5e7f258806e2
+../../../../../node_modules/unimodules-camera-interface/ios/UMCameraInterface/UMCameraInterface.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

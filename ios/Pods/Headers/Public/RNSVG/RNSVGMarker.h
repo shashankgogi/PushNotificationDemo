@@ -1,0 +1,5 @@
+XSym
+0071
+03d7ff868b12cb3c6d5ff34b0f13f7dc
+../../../../../node_modules/react-native-svg/ios/Elements/RNSVGMarker.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

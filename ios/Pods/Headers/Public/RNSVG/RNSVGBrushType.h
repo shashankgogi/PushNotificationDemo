@@ -1,0 +1,5 @@
+XSym
+0073
+e8208c9f34d0b6f9957844b718b25c3b
+../../../../../node_modules/react-native-svg/ios/Brushes/RNSVGBrushType.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

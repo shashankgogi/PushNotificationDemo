@@ -1,0 +1,5 @@
+XSym
+0053
+569b8e2a59bdded92ff94eab0d151d17
+../../../../../Flipper-Folly/folly/detail/Singleton.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

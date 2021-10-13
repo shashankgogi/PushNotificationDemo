@@ -1,0 +1,5 @@
+XSym
+0089
+9ae6d8cd1d950735ef0bfa3da04a3c32
+../../../../../node_modules/@unimodules/core/ios/UMCore/Protocols/UMAppLifecycleService.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

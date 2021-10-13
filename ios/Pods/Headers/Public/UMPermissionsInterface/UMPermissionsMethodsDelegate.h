@@ -1,0 +1,5 @@
+XSym
+0118
+b045024aef81ba459a1cd39f3b7bd69d
+../../../../../node_modules/unimodules-permissions-interface/ios/UMPermissionsInterface/UMPermissionsMethodsDelegate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

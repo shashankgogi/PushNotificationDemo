@@ -1,0 +1,5 @@
+XSym
+0120
+5bf886924ca7e1f04d367805bc314837
+../../../../../node_modules/unimodules-file-system-interface/ios/UMFileSystemInterface/UMFilePermissionModuleInterface.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

@@ -1,0 +1,5 @@
+XSym
+0112
+ad5654f991357bb9ef9fdf7dd4f0a129
+../../../../../node_modules/unimodules-permissions-interface/ios/UMPermissionsInterface/UMPermissionsInterface.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

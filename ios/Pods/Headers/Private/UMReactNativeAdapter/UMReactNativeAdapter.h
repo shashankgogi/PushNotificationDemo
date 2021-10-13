@@ -1,0 +1,5 @@
+XSym
+0117
+77a9aa662ef91629e4a25d20ccbc6f6f
+../../../../../node_modules/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/Services/UMReactNativeAdapter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

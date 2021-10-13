@@ -1,0 +1,5 @@
+XSym
+0067
+c5e90a6c42c2516f8438704ce3e185f2
+../../../PromisesObjC/Sources/FBLPromises/include/FBLPromise+Wrap.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

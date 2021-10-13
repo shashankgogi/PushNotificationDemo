@@ -1,0 +1,5 @@
+XSym
+0090
+aabc48aacba5920de65cf1a84525ccc6
+../../../../../node_modules/@unimodules/core/ios/UMCore/Protocols/UMAppLifecycleListener.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

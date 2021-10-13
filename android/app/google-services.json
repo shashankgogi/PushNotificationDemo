@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "921745423171",
+    "firebase_url": "https://react-pushnotificaton.firebaseio.com",
+    "project_id": "react-pushnotificaton",
+    "storage_bucket": "react-pushnotificaton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921745423171:android:05f3dc01e1daf0d6f48df6",
+        "android_client_info": {
+          "package_name": "com.pushnotificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921745423171-vu7r3c1fvmqn8pd7v52o3175bdq4q5mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAo9VJH6yrlNmfQaPzUy_7Iilnvp9h-5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921745423171-vu7r3c1fvmqn8pd7v52o3175bdq4q5mg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "921745423171-0k5jgrc7f7c3ggvlu5ta75n7i082513e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ob.bindurekha"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

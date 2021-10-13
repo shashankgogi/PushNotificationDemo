@@ -1,0 +1,5 @@
+XSym
+0089
+5b2b6370826ebe1559b26569893dd9b6
+../../../../../node_modules/@unimodules/core/ios/UMCore/Protocols/UMEventEmitterService.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

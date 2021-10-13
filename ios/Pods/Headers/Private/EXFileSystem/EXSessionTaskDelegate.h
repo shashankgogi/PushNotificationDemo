@@ -1,0 +1,5 @@
+XSym
+0100
+b8c5c73607db5be146350aa803b7c141
+../../../../../node_modules/expo-file-system/ios/EXFileSystem/EXSessionTasks/EXSessionTaskDelegate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

@@ -1,0 +1,5 @@
+XSym
+0106
+bf340ee0a8806ebf647c85ed06dfcdf3
+../../../../../node_modules/unimodules-sensors-interface/ios/UMSensorsInterface/UMAccelerometerInterface.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

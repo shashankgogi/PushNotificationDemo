@@ -1,0 +1,5 @@
+XSym
+0084
+46938cce64e5f5706cf77057c6663c6e
+../../../../../node_modules/react-native-svg/ios/ViewManagers/RNSVGTextPathManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

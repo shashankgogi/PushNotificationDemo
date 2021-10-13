@@ -1,0 +1,5 @@
+XSym
+0115
+13b6f9d84773e5beaa761bc268ed380e
+../../../../../node_modules/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/Services/UMReactFontManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

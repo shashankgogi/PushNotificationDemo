@@ -1,0 +1,5 @@
+XSym
+0075
+db790b6f126b9cf0e7d914ef53ced89f
+../../../../../node_modules/@unimodules/core/ios/UMCore/UMSingletonModule.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

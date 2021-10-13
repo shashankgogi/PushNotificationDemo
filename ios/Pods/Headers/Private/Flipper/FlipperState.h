@@ -1,0 +1,5 @@
+XSym
+0045
+49237d7dbe4e311d5da8cd4fd0d9433c
+../../../Flipper/xplat/Flipper/FlipperState.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

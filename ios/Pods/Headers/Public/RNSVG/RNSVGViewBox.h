@@ -1,0 +1,5 @@
+XSym
+0069
+deb67603da2941f8942f025b58d7ebff
+../../../../../node_modules/react-native-svg/ios/Utils/RNSVGViewBox.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

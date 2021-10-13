@@ -1,0 +1,5 @@
+XSym
+0079
+a8bcf5915fe2b7863b6c20629234d869
+../../../../../node_modules/@unimodules/core/ios/UMCore/Services/UMLogManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

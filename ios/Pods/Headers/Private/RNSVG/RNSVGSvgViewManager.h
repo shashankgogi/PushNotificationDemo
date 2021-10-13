@@ -1,0 +1,5 @@
+XSym
+0083
+8dbfda748f7aa4f1af3a53dd939567e3
+../../../../../node_modules/react-native-svg/ios/ViewManagers/RNSVGSvgViewManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

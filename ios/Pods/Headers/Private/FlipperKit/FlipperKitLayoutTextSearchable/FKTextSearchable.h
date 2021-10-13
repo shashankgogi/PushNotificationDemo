@@ -1,0 +1,5 @@
+XSym
+0107
+35895a139158f45ce6f52aa29622e4aa
+../../../../FlipperKit/iOS/Plugins/FlipperKitLayoutPlugin/FlipperKitLayoutTextSearchable/FKTextSearchable.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

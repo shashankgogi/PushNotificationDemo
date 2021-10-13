@@ -1,0 +1,5 @@
+XSym
+0074
+db5fb3284189deea60e2e2ed05fd34f0
+../../../../../node_modules/@unimodules/core/ios/UMCore/UMExportedModule.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

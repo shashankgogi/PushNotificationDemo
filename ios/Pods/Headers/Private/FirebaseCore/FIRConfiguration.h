@@ -1,0 +1,5 @@
+XSym
+0081
+97ccd492d17fcbceee15051d2ece944f
+../../../FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

@@ -1,0 +1,5 @@
+XSym
+0066
+596809af3481b59f42064ce85b29655f
+../../../FirebaseCore/FirebaseCore/Sources/Private/FIRDependency.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

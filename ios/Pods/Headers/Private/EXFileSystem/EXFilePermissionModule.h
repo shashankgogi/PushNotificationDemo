@@ -1,0 +1,5 @@
+XSym
+0086
+eeced211bcd77aae66da4134c2f1bef3
+../../../../../node_modules/expo-file-system/ios/EXFileSystem/EXFilePermissionModule.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

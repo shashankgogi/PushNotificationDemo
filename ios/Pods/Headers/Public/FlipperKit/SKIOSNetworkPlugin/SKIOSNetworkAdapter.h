@@ -1,0 +1,5 @@
+XSym
+0099
+35bea2cadb3e8e47f0b013b942415a51
+../../../../FlipperKit/iOS/Plugins/FlipperKitNetworkPlugin/SKIOSNetworkPlugin/SKIOSNetworkAdapter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

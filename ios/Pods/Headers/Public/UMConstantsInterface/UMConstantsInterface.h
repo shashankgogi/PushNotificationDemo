@@ -1,0 +1,5 @@
+XSym
+0106
+142e590888ed7e4c19309bf68404a46c
+../../../../../node_modules/unimodules-constants-interface/ios/UMConstantsInterface/UMConstantsInterface.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

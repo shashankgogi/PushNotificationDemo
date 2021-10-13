@@ -1,0 +1,5 @@
+XSym
+0118
+474de1671779ce8e96061453c1b09494
+../../../../FlipperKit/iOS/Plugins/FlipperKitLayoutPlugin/FlipperKitLayoutPlugin/descriptors/SKApplicationDescriptor.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

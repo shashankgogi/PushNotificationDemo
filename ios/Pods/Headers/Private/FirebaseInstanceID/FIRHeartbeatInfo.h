@@ -1,0 +1,5 @@
+XSym
+0075
+7546884b02f128832f0a1e6741053786
+../../../FirebaseInstanceID/FirebaseCore/Sources/Private/FIRHeartbeatInfo.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

@@ -1,0 +1,5 @@
+XSym
+0082
+f8591624249e49fbd094527b89a333b9
+../../../../../node_modules/@react-native-firebase/app/ios/RNFBApp/RNFBAppModule.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

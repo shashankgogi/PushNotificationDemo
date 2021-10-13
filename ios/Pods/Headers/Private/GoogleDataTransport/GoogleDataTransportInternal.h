@@ -1,0 +1,5 @@
+XSym
+0101
+7e8aaeef8b951acf5476de05151a9ecf
+../../../GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GoogleDataTransportInternal.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

@@ -1,0 +1,5 @@
+XSym
+0073
+3ea1026797b310215b748596a750b7d6
+../../../../../node_modules/react-native-svg/ios/Text/RNSVGGlyphContext.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

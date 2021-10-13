@@ -1,0 +1,5 @@
+XSym
+0069
+aa859b141a779633c04875e4390eb0b2
+../../../PromisesObjC/Sources/FBLPromises/include/FBLPromise+Reduce.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

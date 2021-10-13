@@ -1,0 +1,5 @@
+XSym
+0070
+78293495271ae02358d903c93f019f48
+../../../../../node_modules/react-native-svg/ios/Elements/RNSVGGroup.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

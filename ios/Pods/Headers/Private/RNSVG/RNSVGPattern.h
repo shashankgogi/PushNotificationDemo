@@ -1,0 +1,5 @@
+XSym
+0072
+f25a6220a52a857b2b6d74a19747863e
+../../../../../node_modules/react-native-svg/ios/Elements/RNSVGPattern.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

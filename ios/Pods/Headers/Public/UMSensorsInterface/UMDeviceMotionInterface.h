@@ -1,0 +1,5 @@
+XSym
+0105
+8644988b5d07e57758ef810e69eec29b
+../../../../../node_modules/unimodules-sensors-interface/ios/UMSensorsInterface/UMDeviceMotionInterface.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

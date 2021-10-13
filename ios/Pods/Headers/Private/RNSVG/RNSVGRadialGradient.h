@@ -1,0 +1,5 @@
+XSym
+0079
+31c3f3fb42a769274f2905b0985e6b10
+../../../../../node_modules/react-native-svg/ios/Elements/RNSVGRadialGradient.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

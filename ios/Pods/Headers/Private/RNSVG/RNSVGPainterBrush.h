@@ -1,0 +1,5 @@
+XSym
+0076
+144241ee8ea096da3496e0fe983cf193
+../../../../../node_modules/react-native-svg/ios/Brushes/RNSVGPainterBrush.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

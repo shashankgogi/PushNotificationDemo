@@ -1,0 +1,5 @@
+XSym
+0046
+8dbcca3c14ed589c05765f9f8e341f9c
+../../../Flipper/xplat/Flipper/FlipperPlugin.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

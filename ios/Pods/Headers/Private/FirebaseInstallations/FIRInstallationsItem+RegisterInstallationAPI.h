@@ -1,0 +1,5 @@
+XSym
+0131
+38440fbeb045988876efdce1f2c7d1e1
+../../../FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsItem+RegisterInstallationAPI.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

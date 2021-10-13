@@ -1,0 +1,5 @@
+XSym
+0084
+4ee34f0e2dbb79ca65ca512d2c1c7d30
+../../../FirebaseMessaging/FirebaseMessaging/Sources/Protos/GtalkExtensions.pbobjc.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

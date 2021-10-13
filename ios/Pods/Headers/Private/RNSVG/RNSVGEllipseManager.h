@@ -1,0 +1,5 @@
+XSym
+0083
+75b4958057aee85993d258a83e8f0366
+../../../../../node_modules/react-native-svg/ios/ViewManagers/RNSVGEllipseManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

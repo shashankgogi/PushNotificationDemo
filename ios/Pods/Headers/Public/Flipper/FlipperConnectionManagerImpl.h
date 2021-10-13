@@ -1,0 +1,5 @@
+XSym
+0061
+c931075276eebd8bef696c764b788c03
+../../../Flipper/xplat/Flipper/FlipperConnectionManagerImpl.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

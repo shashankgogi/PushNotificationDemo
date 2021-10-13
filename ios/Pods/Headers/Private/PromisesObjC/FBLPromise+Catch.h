@@ -1,0 +1,5 @@
+XSym
+0068
+98e83a6a9f17260da080a767a8430b25
+../../../PromisesObjC/Sources/FBLPromises/include/FBLPromise+Catch.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

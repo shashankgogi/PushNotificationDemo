@@ -1,0 +1,5 @@
+XSym
+0102
+da6a2bd5e69b2c4d2d0158e29d15757a
+../../../../../node_modules/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/UMBridgeModule.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

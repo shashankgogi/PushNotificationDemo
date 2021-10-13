@@ -1,0 +1,5 @@
+XSym
+0069
+a1daa4544f15b98c4f572aa398d4e06a
+../../../../../node_modules/react-native-svg/ios/Text/RNSVGFontData.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

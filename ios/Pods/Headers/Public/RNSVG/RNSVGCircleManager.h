@@ -1,0 +1,5 @@
+XSym
+0082
+ca8fd754665a90ebe908b8f79149ad15
+../../../../../node_modules/react-native-svg/ios/ViewManagers/RNSVGCircleManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

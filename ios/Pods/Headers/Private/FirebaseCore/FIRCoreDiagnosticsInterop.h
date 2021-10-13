@@ -1,0 +1,5 @@
+XSym
+0080
+7e1f7b3901e5c89193a43682e3dfe2a0
+../../../FirebaseCore/Interop/CoreDiagnostics/Public/FIRCoreDiagnosticsInterop.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

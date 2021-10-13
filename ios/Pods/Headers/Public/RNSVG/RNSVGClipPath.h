@@ -1,0 +1,5 @@
+XSym
+0073
+7371dd8ea11a075b46e4299d846e9623
+../../../../../node_modules/react-native-svg/ios/Elements/RNSVGClipPath.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

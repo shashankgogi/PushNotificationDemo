@@ -1,0 +1,5 @@
+XSym
+0078
+e02b6cb94519d418c4361cbab8ed89a1
+../../../../../node_modules/@unimodules/core/ios/UMCore/UMAppDelegateWrapper.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

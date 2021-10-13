@@ -1,0 +1,5 @@
+XSym
+0117
+3ab99f42bf9edd303f09a2ee12f9bd8d
+../../../../FlipperKit/iOS/Plugins/FlipperKitLayoutPlugin/FlipperKitLayoutPlugin/descriptors/SKScrollViewDescriptor.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

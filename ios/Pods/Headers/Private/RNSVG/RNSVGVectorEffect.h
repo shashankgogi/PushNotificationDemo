@@ -1,0 +1,5 @@
+XSym
+0074
+ff9a88e7086f2b7b79bb95df6c1ac825
+../../../../../node_modules/react-native-svg/ios/Utils/RNSVGVectorEffect.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

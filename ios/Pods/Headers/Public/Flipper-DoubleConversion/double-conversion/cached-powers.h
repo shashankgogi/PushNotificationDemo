@@ -1,0 +1,5 @@
+XSym
+0070
+59e5a6bffafe0c682f7bbe85f046253e
+../../../../Flipper-DoubleConversion/double-conversion/cached-powers.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

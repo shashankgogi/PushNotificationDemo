@@ -1,0 +1,5 @@
+XSym
+0092
+29a61fc7b7dfb9033fd1680b087e2688
+../../../../../node_modules/@unimodules/core/ios/UMCore/Protocols/UMModuleRegistryConsumer.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

@@ -1,0 +1,5 @@
+XSym
+0055
+d55c509b15351db3a93408ec738e4576
+../../../FirebaseCore/FirebaseCore/Sources/FIRVersion.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

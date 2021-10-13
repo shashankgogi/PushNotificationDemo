@@ -1,0 +1,5 @@
+XSym
+0113
+8441e786569ac3537293f3e7db741815
+../../../../FlipperKit/iOS/Plugins/FlipperKitLayoutPlugin/FlipperKitLayoutPlugin/descriptors/SKButtonDescriptor.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
